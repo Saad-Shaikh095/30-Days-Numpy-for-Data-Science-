@@ -430,7 +430,7 @@ b[i:k, j:l] # Submatrix (rows i to k-1, cols j to l-1)
 
 | Previous | Current | Next |
 |----------|---------|------|
-| [Day 1: NumPy Basics](./DAY1.md) | **Day 2: Indexing & Slicing** | [Day 3: Operations](./DAY3.md) |
+| [Day 1: NumPy Basics](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%2001%20What%20Numpy%20Really%20Is) | **Day 2: Indexing & Slicing** | [Day 3: Operations](./DAY3.md) |
 
 ---
 

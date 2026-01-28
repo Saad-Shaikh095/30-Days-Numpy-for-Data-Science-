@@ -860,7 +860,7 @@ flat[0] = 999  # arr unchanged
 
 | Previous | Current | Next |
 |----------|---------|------|
-| [Day 3: Boolean Masking](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%203%20Boolean%20Masking%20and%20Fancy%20Indexing) | **Day 4: Reshaping & Memory** | [Day 5: Math Operations](./DAY5.md) |
+| [Day 3: Boolean Masking](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%203%20Boolean%20Masking%20and%20Fancy%20Indexing) | **Day 4: Reshaping & Memory** | [Day 5: Math Operations](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%205%20Mathematical%20Operations%20and%20Boardcasting) |
 
 ---
 

@@ -770,7 +770,7 @@ arr != 50                    # Not equal to
 
 | Previous | Current | Next |
 |----------|---------|------|
-| [Day 2: Indexing & Slicing](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%202%20Indexing%20and%20Slicing) | **Day 3: Boolean Masking & Fancy Indexing** | [Day 4: Array Operations](./DAY4.md) |
+| [Day 2: Indexing & Slicing](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%202%20Indexing%20and%20Slicing) | **Day 3: Boolean Masking & Fancy Indexing** | [Day 4: Array Operations](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%204%20RESHAPING%2C%20FLATTENING%20%26%20MEMORY%20MAGIC) |
 
 ---
 

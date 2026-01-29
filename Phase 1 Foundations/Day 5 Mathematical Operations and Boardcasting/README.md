@@ -1069,7 +1069,7 @@ arr != 5         # Not equal to
 
 | Previous | Current | Next |
 |----------|---------|------|
-| [Day 4: Reshaping & Memory](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%204%20RESHAPING%2C%20FLATTENING%20%26%20MEMORY%20MAGIC) | **Day 5: Math & Broadcasting** | [Day 6: Aggregations](./DAY6.md) |
+| [Day 4: Reshaping & Memory](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%204%20RESHAPING%2C%20FLATTENING%20%26%20MEMORY%20MAGIC) | **Day 5: Math & Broadcasting** | [Day 6: Aggregations](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%206%20Aggregations%20and%20Axis) |
 
 ---
 

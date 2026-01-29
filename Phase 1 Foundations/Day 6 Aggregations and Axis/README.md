@@ -1040,7 +1040,7 @@ normalized = (arr - arr.mean()) / arr.std()
 
 | Previous | Current | Next |
 |----------|---------|------|
-| [Day 5: Math & Broadcasting](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%205%20Mathematical%20Operations%20and%20Boardcasting) | **Day 6: Aggregations & Axis** | [Day 7: Sorting & Searching](./DAY7.md) |
+| [Day 5: Math & Broadcasting](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%205%20Mathematical%20Operations%20and%20Boardcasting) | **Day 6: Aggregations & Axis** | [Day 7: Sorting & Searching](https://github.com/Saad-Shaikh095/30-Days-Numpy-for-Data-Science-/tree/main/Phase%201%20Foundations/Day%207%20Random%20Number%20and%20Simulation) |
 
 ---
 
